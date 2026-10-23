@@ -621,4 +621,7 @@
         <item>com.google.android.gms/com.google.android.gms.nearby.messages.service.NearbyMessagesService</item>
         <item>com.google.android.gms/com.google.android.gms.nearby.discovery.service.DiscoveryService</item>
     </string-array>
+
+    <!-- Do not download DerpFest's pif.json; use only the built-in certified props -->
+    <string name="config_pifUpdateUrl" translatable="false"></string>
 </resources>
